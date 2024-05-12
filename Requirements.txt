@@ -1,6 +1,6 @@
 streamlit
 numpy
-plotly
+plotly.figure_factory
 pandas
 sklearn
 seaborn

@@ -4,6 +4,7 @@ import pandas as pd
 from PIL import Image
 import numpy as np
 import plotly.figure_factory as ff
+import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split

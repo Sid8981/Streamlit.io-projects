@@ -1,1 +1,0 @@
-This repository contains a Stock Market Prediction App built with Streamlit. The app utilizes machine learning models to predict future stock prices based on historical data. It provides an interactive interface for users to input their own data and visualize the predictions.
